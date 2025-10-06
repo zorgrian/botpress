@@ -14,7 +14,8 @@
 [Cloud](https://app.botpress.cloud) •
 [Documentation](https://botpress.com/docs) •
 [Integrations](#integrations) •
-[Plugins](#plugins)
+[Plugins](#plugins) •
+[Similar Projects](./SIMILAR_REPOS.md)
 
 <img src="https://user-images.githubusercontent.com/10071388/248040379-8aee1b03-c483-4040-8ee0-741554310e88.png" width="800">
   
@@ -137,6 +138,17 @@ pnpm run build
 # Run Checks
 pnpm run check
 ```
+
+## Similar Projects
+
+Looking for alternatives or complementary tools? Check out our [curated list of similar repositories](./SIMILAR_REPOS.md) in the conversational AI and chatbot development space. This includes:
+
+- Chatbot frameworks (Wechaty, Koishi, Bottender, Eliza)
+- Multi-agent AI systems (Agentica, Haystack)
+- LLM data frameworks (LlamaIndex TS)
+- Specialized platforms for WhatsApp, Discord, Telegram, and more
+
+See the full list with detailed comparisons → [SIMILAR_REPOS.md](./SIMILAR_REPOS.md)
 
 ## Licensing
 
